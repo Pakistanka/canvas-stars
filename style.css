@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+div {
+    position: relative;
+    background-image: linear-gradient(to bottom, #2f29d7, #0060e7, #0077cd, #0086a3, #008f83, #209a7a, #42a36c, #63ab5b, #84b966, #a3c773, #c0d583, #dce394);
+}
+/* section {
+    background-image: url('4723.png_300.png');
+    background-size: contain;
+    width: 910px;
+    height: 300px;
+    position: absolute;
+    z-index: 31;
+    bottom: 0px;
+} */
+/* canvas {
+    background-image: linear-gradient(to bottom, #2f29d7, #0060e7, #0077cd, #0086a3, #008f83, #209a7a, #42a36c, #63ab5b, #84b966, #a3c773, #c0d583, #dce394);
+    
+} */
+
+
